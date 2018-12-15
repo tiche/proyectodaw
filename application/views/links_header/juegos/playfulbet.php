@@ -1,0 +1,7 @@
+<?= $header ?>
+<?= $nav ?>
+
+playfulbet
+
+<?=$footer?>
+

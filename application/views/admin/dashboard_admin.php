@@ -1,0 +1,6 @@
+<?=$header?>
+<?=$nav_admin?>
+
+<?=$content?>
+
+<?=$footer?>

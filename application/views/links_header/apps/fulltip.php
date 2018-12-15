@@ -1,0 +1,6 @@
+<?= $header ?>
+<?= $nav ?>
+
+fulltip
+
+<?=$footer?>

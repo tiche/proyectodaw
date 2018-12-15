@@ -1,0 +1,6 @@
+<?= $header ?>
+<?= $nav ?>
+
+triunfador
+
+<?=$footer?>

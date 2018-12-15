@@ -1,0 +1,6 @@
+<?= $header ?>
+<?= $nav ?>
+
+isay
+
+<?=$footer?>
